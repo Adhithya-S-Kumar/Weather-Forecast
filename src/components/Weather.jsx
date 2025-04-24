@@ -61,7 +61,7 @@ function Weather() {
     }
 
     useEffect(()=>{
-        search("America")
+        search("")
     },[])
 
 
